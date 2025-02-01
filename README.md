@@ -10,3 +10,4 @@ This is a simple Python script to generate secure passwords.
 ## Features
 - Random password generation.
 - Adjustable password length.
+- one online 1
